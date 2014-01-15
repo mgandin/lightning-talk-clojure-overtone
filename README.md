@@ -1,6 +1,6 @@
 # tutorial
 
-Some examples to do some live-coding with Clojure and Overtone
+Some examples to do a bit oge live-coding with Clojure, Overtone and SuperCollider.
 
 ## Usage
 
