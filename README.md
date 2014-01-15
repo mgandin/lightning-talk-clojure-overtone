@@ -10,6 +10,8 @@ Next, you Emacs Live or Lighttable and make some noises ...
 
 This code was presented at the Paris Java User Group : http://www.parisjug.org/xwiki/bin/view/Meeting/20140114
 
+livecoding.clj is a short presentation of overtone and core.clj is a small song (it sounds a bit like IDM and John Carpenter ...)
+
 ## License
 
 Copyright © 2013 Mathieu Gandin
