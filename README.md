@@ -14,7 +14,7 @@ livecoding.clj is a short presentation of overtone and core.clj is a small song 
 
 ## License
 
-Copyright © 2013 Mathieu Gandin
+Copyright © 2014 Mathieu Gandin
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
